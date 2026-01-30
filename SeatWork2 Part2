@@ -49,7 +49,7 @@ class Student extends Person {
  		
  		Student s = new Student();
  		
- 		s.setName("Brayden Lareez ");
+ 		s.setName("Brayden Lareez");
  		s.setAge(16);
  		
  		s.setCourse("ICT");
